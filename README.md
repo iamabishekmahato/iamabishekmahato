@@ -4,13 +4,13 @@
 <h2 align="center">⚡ WELCOME TO MY GITHUB ⚡</h2>
 
 <p align="center">
-  <b>🚀 Future Developer | Python Learner | HTML Creator</b>
+  <b> Developer | Python Learner | HTML Creator</b>
 </p>
 
 ---
 
 ### 👨‍💻 ABOUT ME
-- 😈 Name: CGA ABISHEK
+- 😈 Name: ABISHEK Mahato
 - 💻 Learning: Python, HTML, CSS, JavaScript
 - 🎯 Goal: Become a Professional Developer
 - 🔥 Interested in: AI, Apps and Game Development
