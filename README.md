@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**iamabishekmahato/iamabishekmahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 😈 CGA ABISHEK
 
-Here are some ideas to get you started:
+<h2 align="center">⚡ WELCOME TO MY GITHUB ⚡</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>🚀 Future Developer | Python Learner | HTML Creator</b>
+</p>
+
+---
+
+### 👨‍💻 ABOUT ME
+- 😈 Name: CGA ABISHEK
+- 💻 Learning: Python, HTML, CSS, JavaScript
+- 🎯 Goal: Become a Professional Developer
+- 🔥 Interested in: AI, Apps and Game Development
+
+### 🛠️ MY SKILLS
+
+<p>
+  HTML • CSS • JavaScript • Python • Git
+</p>
+
+### 📊 MY GITHUB
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### ⚡ MY MOTTO
+
+"Think Different. Code Different. Create Different."
+
+---
+
+<p align="center">
+  😈 CGA ABISHEK 😈
+</p>
