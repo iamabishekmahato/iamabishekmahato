@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 ABOUT ME
-- 😈 Name: ABISHEK Mahato
+-   Name: ABISHEK Mahato
 - 💻 Learning: Python, HTML,Java
 - 🎯 Goal: CGA
 - 🔥 Interested in: AI, Apps and Game Development
