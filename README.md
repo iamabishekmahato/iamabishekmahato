@@ -1,11 +1,11 @@
 
-#  ABISHEK MAHATO
+#  <h1><b>ABISHEK MAHATO </b></h1>
 
 
 <h2 align="center">⚡ WELCOME TO MY GITHUB ⚡</h2>
 
 <p align="center">
-  <b> Developer | Python Learner | HTML Creator</b>
+  <b> | Python Learner | HTML Creator</b>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ### 🛠️ MY SKILLS
 
 <p>
-  HTML • CSS •• Python •
+  HTML • Python •
 </p>
 
 ### 📊 MY GITHUB
